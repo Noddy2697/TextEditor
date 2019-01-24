@@ -1,3 +1,7 @@
 # TextEditor
 text and hex editor
-under devplopment project
+text editor is complete.....
+
+hexeditor function is under devlopment......
+
+(under devlopment project)
